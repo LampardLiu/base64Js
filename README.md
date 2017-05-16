@@ -20,4 +20,4 @@
 
 #### 特别说明
 
-**此算法源自网络，在此列出已用的[博客地址](http://www.cnblogs.com/youring2/archive/2013/03/04/2942880.html)**
+**此算法源自网络，在此列出引用的[博客地址](http://www.cnblogs.com/youring2/archive/2013/03/04/2942880.html)**
